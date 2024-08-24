@@ -9,6 +9,7 @@
 
 #include <array>
 #include <memory>
+#include <optional>
 #include <span>
 
 namespace rndr

@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <core/game_data.hpp>
 
 #include <core/wad_types.hpp>

@@ -1,5 +1,6 @@
 #include <rndr/visplane.hpp>
 
+#include <algorithm>
 #include <game/level.hpp>
 #include <rndr/column.hpp>
 #include <rndr/context.hpp>

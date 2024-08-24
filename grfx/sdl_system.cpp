@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <grfx/sdl_system.hpp>
 
 namespace grfx
